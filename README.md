@@ -1,4 +1,4 @@
-   A Data Analyst
+      A Data Analyst
 - 👋 Hi, I’m Annapurna patil
 - 🌱 I’m currently learning data analysis
 - 📫 How to reach me annapurna.patil1820@gmail.com
