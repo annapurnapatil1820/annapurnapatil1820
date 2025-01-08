@@ -1,5 +1,6 @@
+   A Data Analyst
 - 👋 Hi, I’m Annapurna patil
-- 🌱 I’m currently learning data analyst 
+- 🌱 I’m currently learning data analysis
 - 📫 How to reach me annapurna.patil1820@gmail.com
 - Connect with me on [www.linkedin.com/in/annapurna-366b96296]
 
